@@ -9,7 +9,7 @@ package com.cdcoder.core.cache;
  * @Description: ${todo}
  * @date 2015/3/11 23:25
  */
-public interface CacheProvider {
+public interface CacheProvider  {
     /**
      * Configure the cache
      *
