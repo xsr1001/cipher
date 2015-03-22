@@ -1,4 +1,3 @@
-//$Id: EhCache.java 10716 2006-11-03 19:05:11Z max.andersen@jboss.com $
 package com.cdcoder.core.cache;
 
 import com.ketayao.fensy.exception.CacheException;

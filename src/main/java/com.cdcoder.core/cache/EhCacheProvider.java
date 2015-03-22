@@ -1,4 +1,3 @@
-//$Id: EhCacheProvider.java 9964 2006-05-30 15:40:54Z epbernard $
 package com.cdcoder.core.cache;
 
 import com.ketayao.fensy.exception.CacheException;

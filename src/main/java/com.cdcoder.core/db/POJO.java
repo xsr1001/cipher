@@ -1,7 +1,8 @@
 package com.cdcoder.core.db;
 
-import com.ketayao.fensy.cache.CacheManager;
-import com.ketayao.fensy.exception.DBException;
+
+import com.cdcoder.core.cache.CacheManager;
+import com.cdcoder.core.excption.DBException;
 import org.apache.commons.beanutils.BeanUtils;
 import org.apache.commons.dbutils.DbUtils;
 import org.apache.commons.lang3.StringUtils;
@@ -341,7 +342,7 @@ public class POJO extends BaseEntity {
 	/**
 	 * 批量加载对象
 	 * 
-	 * @param pids
+	 * @param ids
 	 * @return
 	 */
 	@SuppressWarnings("rawtypes")
